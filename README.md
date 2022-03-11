@@ -1,6 +1,5 @@
 ### Sergio Mata  👋
 
-<!--
 
 ## I'm a Master in Computer Science and Mechatronic Engineer  
 
