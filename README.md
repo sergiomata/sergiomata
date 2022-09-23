@@ -7,7 +7,7 @@
 - 💪🏼 Future Goals: Learn more technologies and DevOps Tools
 - ⚡ Fun fact: Pokemon and Star Wars Fan 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomata&langs_count=8)](https://github.com/sergiomata/github-readme-stats)
+[![sergiomata's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true))
 
 ## Mi Knowledge
 
@@ -40,4 +40,4 @@ Others
 
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
-[![sergiomata's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomata&count_private=true)](https://github.com/sergiomata/github-readme-stats)
+
