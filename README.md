@@ -7,7 +7,7 @@
 - 💪🏼 Future Goals: Learn more technologies and DevOps Tools
 - ⚡ Fun fact: Pokemon and Star Wars Fan 
 
-[![sergiomata's GitHub stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true))
+[![sergiomata's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiomata&count_private=true)
 
 ## Mi Knowledge
 
